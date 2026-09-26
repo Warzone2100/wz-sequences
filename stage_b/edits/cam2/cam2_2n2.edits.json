@@ -1,0 +1,18 @@
+{
+  "format": "wz2100-sequence-edits", "version": 1,
+  "video": {"duration": 9.6, "frames": 240, "fps": 25.0},
+  "tracks": {
+    "fre": {
+      "video": "cam2_2n2.fre.webm",
+      "video_duration": 10.0,
+      "video_frames": 250,
+      "duration": 10.0
+    },
+    "ger": {
+      "video": "cam2_2n2.ger.webm",
+      "video_duration": 10.56,
+      "video_frames": 264,
+      "duration": 10.56
+    }
+  }
+}

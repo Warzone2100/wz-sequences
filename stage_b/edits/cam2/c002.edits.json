@@ -1,0 +1,23 @@
+{
+  "format": "wz2100-sequence-edits", "version": 1,
+  "video": {"duration": 85.12, "frames": 1064, "fps": 12.5},
+  "tracks": {
+    "fre": {
+      "timeline": [
+        {"op": "play", "from": 0.0, "to": 36.8},
+        {"op": "hold", "duration": 1.04},
+        {"op": "play", "from": 36.8, "to": 85.12}
+      ],
+      "duration": 86.16
+    },
+    "ger": {
+      "timeline": [
+        {"op": "play", "from": 0.0, "to": 36.8},
+        {"op": "hold", "duration": 2.24},
+        {"op": "play", "from": 36.8, "to": 85.12},
+        {"op": "hold", "duration": 1.76}
+      ],
+      "duration": 89.12
+    }
+  }
+}

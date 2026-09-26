@@ -1,0 +1,19 @@
+{
+  "format": "wz2100-sequence-edits", "version": 1,
+  "video": {"duration": 42.8, "frames": 535, "fps": 12.5},
+  "tracks": {
+    "fre": {
+      "timeline": [
+        {"op": "play", "from": 0.0, "to": 42.8},
+        {"op": "black", "duration": 2.48}
+      ],
+      "duration": 45.28
+    },
+    "ger": {
+      "video": "cam26afm.ger.webm",
+      "video_duration": 52.4,
+      "video_frames": 1310,
+      "duration": 52.4
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format": "wz2100-sequence-edits", "version": 1,
+  "video": {"duration": 14.16, "frames": 354, "fps": 25.0},
+  "tracks": {
+    "fre": {
+      "timeline": [
+        {"op": "play", "from": 0.0, "to": 14.16},
+        {"op": "loop", "from": 12.16, "to": 14.16, "duration": 1.52}
+      ],
+      "duration": 15.68
+    },
+    "ger": {
+      "timeline": [
+        {"op": "play", "from": 0.0, "to": 14.16},
+        {"op": "loop", "from": 12.16, "to": 14.16, "duration": 3.84}
+      ],
+      "duration": 18.0
+    }
+  }
+}

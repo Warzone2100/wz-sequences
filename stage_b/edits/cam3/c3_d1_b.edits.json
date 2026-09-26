@@ -1,0 +1,26 @@
+{
+  "format": "wz2100-sequence-edits", "version": 1,
+  "video": {"duration": 6.96, "frames": 174, "fps": 25.0},
+  "tracks": {
+    "fre": {
+      "timeline": [
+        {"op": "play", "from": 0.0, "to": 6.96},
+        {"op": "hold", "duration": 0.32}
+      ],
+      "video": "c3_d1_b.loc.webm",
+      "video_duration": 6.96,
+      "video_frames": 174,
+      "duration": 7.28
+    },
+    "ger": {
+      "timeline": [
+        {"op": "play", "from": 0.0, "to": 6.96},
+        {"op": "hold_fade", "duration": 2.0}
+      ],
+      "video": "c3_d1_b.loc.webm",
+      "video_duration": 6.96,
+      "video_frames": 174,
+      "duration": 8.96
+    }
+  }
+}
