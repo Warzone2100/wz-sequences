@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: GPL-2.0-or-later
+# Python packages for the tools, at the versions that made the included files:
+#   pip install -r tools/requirements.txt
+# NumPy: the stage (b), (c) and (d) tools. ncnn: the ml method of tools/build_stage_c.py.
+# ncnn also installs opencv-python, requests, tqdm and portalocker (for its own model downloads, not used here).
+numpy==2.5.3
+ncnn==1.0.20260526

@@ -1,0 +1,584 @@
+{
+ "brfcom": [
+  0.0,
+  0.4
+ ],
+ "brfcom4s": [
+  0.0
+ ],
+ "c001": [
+  0.0
+ ],
+ "cam1/c001": [
+  0.0
+ ],
+ "cam1/c001end": [
+  0.0,
+  31.8
+ ],
+ "cam1/c001pl": [
+  0.0
+ ],
+ "cam1/cam1": [
+  0.0
+ ],
+ "cam1/cam1ac": [
+  0.0
+ ],
+ "cam1/cam1acp": [
+  0.0,
+  7.2
+ ],
+ "cam1/cam1ascv": [
+  0.0
+ ],
+ "cam1/cam1b": [
+  0.0
+ ],
+ "cam1/cam1b_p": [
+  0.0
+ ],
+ "cam1/cam1bpow": [
+  0.0
+ ],
+ "cam1/cam1ca": [
+  0.0
+ ],
+ "cam1/cam1capl": [
+  0.0,
+  11.2
+ ],
+ "cam1/cam1ccf": [
+  0.0
+ ],
+ "cam1/cam1ccom": [
+  0.0
+ ],
+ "cam1/cam1clz": [
+  0.0
+ ],
+ "cam1/cam1cnp": [
+  0.0
+ ],
+ "cam1/cam1d": [
+  0.0
+ ],
+ "cam1/cam1dnp": [
+  0.0
+ ],
+ "cam1/cam1dp1": [
+  0.0
+ ],
+ "cam1/cam1dp2": [
+  0.0,
+  5.32
+ ],
+ "cam1/cam1out1": [
+  0.0
+ ],
+ "cam1/cam1out2": [
+  0.0
+ ],
+ "cam1/cam1out3": [
+  0.0
+ ],
+ "cam1/cam1out4": [
+  0.0
+ ],
+ "cam1/cam1out5": [
+  0.0,
+  24.36,
+  24.64
+ ],
+ "cam1/cam1out6": [
+  0.0
+ ],
+ "cam1/map1a_c": [
+  0.0
+ ],
+ "cam1/map1c": [
+  0.0
+ ],
+ "cam1/map1cexp": [
+  0.0,
+  20.04
+ ],
+ "cam1/sub12pt2": [
+  0.0
+ ],
+ "cam1/sub13bet": [
+  0.0
+ ],
+ "cam1/sub13gam": [
+  0.0
+ ],
+ "cam1/sub13np1": [
+  0.0
+ ],
+ "cam1/sub13np2": [
+  0.0
+ ],
+ "cam1/sub14anp": [
+  0.0
+ ],
+ "cam1/sub14bpl": [
+  0.0
+ ],
+ "cam1/sub17fmv": [
+  0.0,
+  55.44
+ ],
+ "cam1/sub1_1": [
+  0.0
+ ],
+ "cam1/sub1_1p": [
+  0.0
+ ],
+ "cam1/sub1_2": [
+  0.0,
+  23.28
+ ],
+ "cam1/sub1_3": [
+  0.0
+ ],
+ "cam1/sub1_3p1": [
+  0.0
+ ],
+ "cam1/sub1_4": [
+  0.0
+ ],
+ "cam1/sub1_4b": [
+  0.0
+ ],
+ "cam1/sub1_4bn": [
+  0.0
+ ],
+ "cam1/sub1_4pl": [
+  0.0
+ ],
+ "cam1/sub1_5": [
+  0.0
+ ],
+ "cam1/sub1_5pl": [
+  0.0,
+  5.92
+ ],
+ "cam1/sub1_7": [
+  0.0
+ ],
+ "cam1/sub1_7b": [
+  0.0
+ ],
+ "cam1/sub1_7pl": [
+  0.0,
+  22.48
+ ],
+ "cam2/c002": [
+  0.0
+ ],
+ "cam2/c2diif2": [
+  0.0
+ ],
+ "cam2/cam22fmv": [
+  0.0,
+  73.52
+ ],
+ "cam2/cam22pl1": [
+  0.0,
+  14.28
+ ],
+ "cam2/cam22pl2": [
+  0.0,
+  4.24
+ ],
+ "cam2/cam22pl3": [
+  0.0,
+  2.8
+ ],
+ "cam2/cam26afm": [
+  0.0
+ ],
+ "cam2/cam26bfm": [
+  0.0
+ ],
+ "cam2/cam26pl1": [
+  0.0,
+  12.16
+ ],
+ "cam2/cam26pl2": [
+  0.0,
+  6.64
+ ],
+ "cam2/cam27fmv": [
+  0.0
+ ],
+ "cam2/cam28apl": [
+  0.0,
+  6.08
+ ],
+ "cam2/cam2_1": [
+  0.0
+ ],
+ "cam2/cam2_2": [
+  0.0
+ ],
+ "cam2/cam2_2n": [
+  0.0
+ ],
+ "cam2/cam2_2n2": [
+  0.0
+ ],
+ "cam2/cam2_5": [
+  0.0
+ ],
+ "cam2/cam2_5pl": [
+  0.0,
+  10.56
+ ],
+ "cam2/cam2_6a": [
+  0.0
+ ],
+ "cam2/cam2_6b": [
+  0.0
+ ],
+ "cam2/cam2_7": [
+  0.0
+ ],
+ "cam2/cam2_8a": [
+  0.0
+ ],
+ "cam2/cam2_di": [
+  0.0
+ ],
+ "cam2/cam2_diib": [
+  0.0
+ ],
+ "cam2/cam2acol": [
+  0.0,
+  13.2,
+  15.2
+ ],
+ "cam2/cam2ap": [
+  0.0
+ ],
+ "cam2/cam2ap1": [
+  0.0
+ ],
+ "cam2/cam2b": [
+  0.0
+ ],
+ "cam2/cam2bcol": [
+  0.0,
+  22.0,
+  24.0
+ ],
+ "cam2/cam2bpl": [
+  0.0
+ ],
+ "cam2/cam2ca": [
+  0.0
+ ],
+ "cam2/cam2capl": [
+  0.0,
+  6.12
+ ],
+ "cam2/cam2cb": [
+  0.0
+ ],
+ "cam2/cam2cbpl": [
+  0.0,
+  7.28
+ ],
+ "cam2/cam2dico": [
+  0.0,
+  13.2,
+  15.2
+ ],
+ "cam2/cam2diib": [
+  0.0
+ ],
+ "cam2/cam2diif": [
+  0.0
+ ],
+ "cam2/cam2diin": [
+  0.0
+ ],
+ "cam2/cam2diip": [
+  0.0
+ ],
+ "cam2/cam2dipl": [
+  0.0
+ ],
+ "cam2/cam2int1": [
+  0.0
+ ],
+ "cam2/cam2int2": [
+  0.0
+ ],
+ "cam2/cam2inta": [
+  0.0
+ ],
+ "cam2/cam2intb": [
+  0.0
+ ],
+ "cam2/cam2out": [
+  0.0
+ ],
+ "cam3/c003": [
+  0.0,
+  17.68,
+  19.68
+ ],
+ "cam3/c3_d1_a": [
+  0.0
+ ],
+ "cam3/c3_d1_b": [
+  0.0
+ ],
+ "cam3/c3ad1pl1": [
+  0.0
+ ],
+ "cam3/c3ad1pl2": [
+  0.0
+ ],
+ "cam3/c3ad1pl3": [
+  0.0,
+  0.72
+ ],
+ "cam3/c3ad2_09": [
+  0.0,
+  13.8
+ ],
+ "cam3/c3ad2_12": [
+  0.0
+ ],
+ "cam3/c3ad2_14": [
+  0.0
+ ],
+ "cam3/c3ad2_16": [
+  0.0
+ ],
+ "cam3/c3ad2_17": [
+  0.0
+ ],
+ "cam3/c3ad2n2": [
+  0.0
+ ],
+ "cam3/c3ad2pl1": [
+  0.0,
+  13.0
+ ],
+ "cam3/c3ad2pl2": [
+  0.0
+ ],
+ "cam3/c3ad2pl3": [
+  0.0
+ ],
+ "cam3/c3ad2pl4": [
+  0.0,
+  9.4
+ ],
+ "cam3/c3c": [
+  0.0
+ ],
+ "cam3/cam31bpl": [
+  0.0,
+  8.04
+ ],
+ "cam3/cam31g2": [
+  0.0,
+  9.44
+ ],
+ "cam3/cam31gam": [
+  0.0,
+  14.48
+ ],
+ "cam3/cam32a2": [
+  0.0
+ ],
+ "cam3/cam32alp": [
+  0.0
+ ],
+ "cam3/cam32pl": [
+  0.0,
+  20.84
+ ],
+ "cam3/cam32pl2": [
+  0.0
+ ],
+ "cam3/cam32pl3": [
+  0.0,
+  6.0
+ ],
+ "cam3/cam34fmv": [
+  0.0
+ ],
+ "cam3/cam34mu1": [
+  0.0
+ ],
+ "cam3/cam34mu2": [
+  0.0
+ ],
+ "cam3/cam3_1": [
+  0.0
+ ],
+ "cam3/cam3_1b": [
+  0.0
+ ],
+ "cam3/cam3_1bn": [
+  0.0
+ ],
+ "cam3/cam3_2b": [
+  0.0
+ ],
+ "cam3/cam3_4a": [
+  0.0
+ ],
+ "cam3/cam3_4b": [
+  0.0
+ ],
+ "cam3/cam3_bn": [
+  0.0
+ ],
+ "cam3/cam3_cb": [
+  0.0
+ ],
+ "cam3/cam3_cg": [
+  0.0,
+  15.2
+ ],
+ "cam3/cam3_cn": [
+  0.0
+ ],
+ "cam3/cam3ab": [
+  0.0
+ ],
+ "cam3/cam3aba": [
+  0.0,
+  21.84
+ ],
+ "cam3/cam3abf": [
+  0.0,
+  3.44
+ ],
+ "cam3/cam3abpl": [
+  0.0
+ ],
+ "cam3/cam3ad1b": [
+  0.0
+ ],
+ "cam3/cam3ad2n": [
+  0.0
+ ],
+ "cam3/cam3b": [
+  0.0
+ ],
+ "cam3/cam3bg": [
+  0.0
+ ],
+ "cam3/cam3bpl": [
+  0.0
+ ],
+ "cam3/cam3cbet": [
+  0.0,
+  0.8
+ ],
+ "cam3/cam3cpl1": [
+  0.0
+ ],
+ "cam3/cam3cpl2": [
+  0.0
+ ],
+ "cam3/cam3cpl3": [
+  0.0
+ ],
+ "cam3/cam3int": [
+  0.0
+ ],
+ "cam3/cam3intb": [
+  0.0
+ ],
+ "cam3/cam3intp": [
+  0.0,
+  12.64
+ ],
+ "cam_start": [
+  0.0
+ ],
+ "devastation": [
+  0.0
+ ],
+ "eidos-logo": [
+  0.0
+ ],
+ "end": [
+  0.0
+ ],
+ "factory": [
+  0.0
+ ],
+ "fastplay": [
+  0.0
+ ],
+ "incomint": [
+  0.0,
+  1.28
+ ],
+ "incomtns": [
+  0.0
+ ],
+ "inflight": [
+  0.0
+ ],
+ "nexend": [
+  0.0
+ ],
+ "npend": [
+  0.0
+ ],
+ "npstart": [
+  0.0
+ ],
+ "outro": [
+  0.0
+ ],
+ "player": [
+  0.0
+ ],
+ "plyr4sec": [
+  0.0
+ ],
+ "prjupdat": [
+  0.0
+ ],
+ "pumpkin": [
+  0.0
+ ],
+ "res_com": [
+  0.0
+ ],
+ "res_droid": [
+  0.0
+ ],
+ "res_pow": [
+  0.0
+ ],
+ "res_struttech": [
+  0.0
+ ],
+ "res_systech": [
+  0.0
+ ],
+ "res_weapons": [
+  0.0
+ ],
+ "titles": [
+  0.0
+ ],
+ "transport": [
+  0.0
+ ],
+ "victory": [
+  0.0
+ ]
+}

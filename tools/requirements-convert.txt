@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: GPL-2.0-or-later
+# Python packages for tools/convert_model.py only, at the versions that made models/:
+#   pip install -r tools/requirements-convert.txt
+# PyTorch's CPU build is enough. On Linux x86-64, pip otherwise fetches the much larger CUDA build:
+#   pip install -r tools/requirements-convert.txt --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.0
+pnnx==20260526
